@@ -1,0 +1,19 @@
+{
+	"events" : [
+	  {
+		"name" : "Event One",
+		"attendance": 150 ,
+		"revenue": 1000 
+	  },
+	  {
+		"name" : "Event Two",
+		"attendance": 200,
+		"revenue": 425
+	  },
+	  {
+		"name" : "Event Three",
+		"attendance": 56,
+		"revenue": 900
+	  }
+	]
+}
